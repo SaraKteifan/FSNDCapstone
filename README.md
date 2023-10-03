@@ -3,7 +3,9 @@
 Capstone Project for Full Stack Nano Degree by One Million Jordanian Coders and Udacity, it resembles an Acting Agency.
 
 ## URL location for the hosted API
+https://acting-agency-3kf7.onrender.com/
 
+JWT tokens are available in postman file for 3 different roles.
 
 ## Project dependencies, local development and hosting instructions,
 To run the project localy you need to have Python, I have Python 3.11.3.
